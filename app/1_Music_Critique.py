@@ -20,7 +20,7 @@ from utils.helpers import clean_text, count_word_freq
 from utils.langchain_utils import music_critique, music_theme_generator
 
 warnings.filterwarnings("ignore")
-st.set_page_config(page_title="🎶 Music Critique")
+st.set_page_config(page_title="🎶 Harmony")
 
 
 @st.cache_data
@@ -135,10 +135,10 @@ def main():
             "Cover Image Generation", value=True
         )
 
-    st.header("🎶 Music Critique")
+    st.header("🎶 Harmony")
     st.markdown(
         """
-MusicCritique is a revolutionary app that unlocks the untapped potential
+Harmony is a revolutionary app that unlocks the untapped potential
 of audio transcription and LLMs to empower artists and managers with features
 that aid data-driven understanding of their recorded songs, to make more informed, strategic
 decisions before releasing their musical masterpieces to the world.

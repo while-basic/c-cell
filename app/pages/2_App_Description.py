@@ -7,7 +7,7 @@ with st.expander("Introduction", expanded=True):
         """
 ## Introduction
 
-**MusicCritique** is a revolutionary application that harnesses the power of audio transcription and Language Model (LLM) technology to provide artists and music managers with valuable insights into their recorded songs. By offering data-driven understanding and analysis, MusicCritique empowers creators to make more informed and strategic decisions before releasing their musical masterpieces to the world.
+**Harmony** is a revolutionary application that harnesses the power of audio transcription and Language Model (LLM) technology to provide artists and music managers with valuable insights into their recorded songs. By offering data-driven understanding and analysis, Harmony empowers creators to make more informed and strategic decisions before releasing their musical masterpieces to the world.
 """
     )
 
@@ -32,7 +32,7 @@ with st.expander("Features"):
 
 The application provides the following features:
 
-**MusicCritique** offers a range of powerful features to enhance your music creation and decision-making process:
+**Harmony** offers a range of powerful features to enhance your music creation and decision-making process:
 
 - **Audio Transcription**: It automatically transcribes audio/video files of song recordings into text, making it easier to analyze and understand the lyrics and song structure.
 - **Summarization**: It summarizes the song recording.
@@ -48,7 +48,7 @@ with st.expander("Installation"):
     st.markdown("""
 ## Installation
 
-To get started with **MusicCritique**, follow these steps:
+To get started with **Harmony**, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -92,5 +92,5 @@ with st.expander("Contributing"):
     st.markdown("""
 ## Contributing
 
-Contributions to MusicCritique are welcome! Whether you're a developer, designer, or music enthusiast, your input is valuable.
+Contributions to Harmony are welcome! Whether you're a developer, designer, or music enthusiast, your input is valuable.
 """)
